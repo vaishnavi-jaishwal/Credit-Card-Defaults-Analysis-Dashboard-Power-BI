@@ -34,4 +34,4 @@ The project is structured into the following main components:
 **Contributing:**
 Contributions to the project are welcome. If you would like to contribute, please fork the repository, make your changes, and submit a pull request.
 
-<img width="965" alt="image" src="https://github.com/vaishnavi-jaishwal/Credit-Card-Defaults-Analysis-Dashboard-Power-BI/assets/163410917/2f90a7e8-bb08-4aa5-b90d-a317c4b23e09">
+<img width="1014" alt="image" src="https://github.com/vaishnavi-jaishwal/Credit-Card-Defaults-Analysis-Dashboard-Power-BI/assets/163410917/1f4bd728-66ca-4f95-9ec8-56d6ae63ae24">
